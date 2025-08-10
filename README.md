@@ -32,7 +32,7 @@ The landing page introduces visitors to The Little Taco Shop, featuring:
 - A highlighted menu section showing popular dishes.
 - Links to the hours and contact pages.
 
-### [hours.html]https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/hours.html) — Operating Hours
+### [hours.html](https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/hours.html) — Operating Hours
 This page clearly displays the restaurant’s weekly schedule:
 - Easy-to-read table layout for opening and closing times.
 - Responsive design so hours remain legible on mobile.
