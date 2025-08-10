@@ -24,16 +24,16 @@ This project showcases a fictional taco shop — **The Little Taco Shop (LTS)** 
 
 ## 🖼 Pages Overview
 
-1. **Home (`index.html`)**
+1. **Home (`https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/index.html`)**
    - Welcome message
    - About section with trivia
    - Menu table with taco options and prices
 
-2. **Hours (`hours.html`)**
+2. **Hours (`https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/hours.html`)**
    - Opening hours for each day
    - Featured taco tray image
 
-3. **Contact (`contact.html`)**
+3. **Contact (`https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/contact.html`)**
    - Contact form
    - Address and phone link
    - Taco close-up image
