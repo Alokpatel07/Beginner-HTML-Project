@@ -24,19 +24,32 @@ This project showcases a fictional taco shop — **The Little Taco Shop (LTS)** 
 
 ## 🖼 Pages Overview
 
-1. **Home (`https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/index.html`)**
-   - Welcome message
-   - About section with trivia
-   - Menu table with taco options and prices
 
-2. **Hours (`https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/hours.html`)**
-   - Opening hours for each day
-   - Featured taco tray image
+### [index.html](https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/index.html) — Homepage
+The landing page introduces visitors to The Little Taco Shop, featuring:
+- A branded header with a professional navigation bar.
+- A hero section with an image and welcome text.
+- A highlighted menu section showing popular dishes.
+- Links to the hours and contact pages.
 
-3. **Contact (`https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/contact.html`)**
-   - Contact form
-   - Address and phone link
-   - Taco close-up image
+### [hours.html]https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/hours.html) — Operating Hours
+This page clearly displays the restaurant’s weekly schedule:
+- Easy-to-read table layout for opening and closing times.
+- Responsive design so hours remain legible on mobile.
+- Styled to match the site’s overall aesthetic.
+
+### [contact.html](https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/contact.html) — Contact Information
+Dedicated to helping customers reach the restaurant:
+- Contact form for inquiries or reservations.
+- Restaurant address, phone number, and email.
+- Optional map link for directions.
+- Consistent styling with the rest of the site.
+
+### [style.css](https://github.com/Alokpatel07/Beginner-HTML-Project/blob/main/style.css) — Main Stylesheet
+Centralizes all design and layout rules:
+- Manages colors, fonts, and spacing using CSS variables.
+- Contains responsive breakpoints for various devices.
+- Defines navigation bar, table, form, and footer styles.
 
 ---
 
@@ -56,4 +69,4 @@ This project showcases a fictional taco shop — **The Little Taco Shop (LTS)** 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/taco-shop.git
+   git clone https://github.com/Alokpatel07/Beginner-HTML-Project
